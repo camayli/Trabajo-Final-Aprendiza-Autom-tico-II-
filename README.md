@@ -6,9 +6,11 @@ Clasificación de la Potabilidad del Agua mediante Técnicas de Aprendizaje Auto
 
 **Autores:**
 
-Patricia Contreras Parra
-María Claudia Angulo Rojas
-Camilo   
+> Patricia Contreras Parra
+
+> María Claudia Angulo Rojas
+
+> Camilo   
 
 **Curso:**
 
