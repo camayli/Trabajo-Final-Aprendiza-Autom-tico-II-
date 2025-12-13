@@ -24,18 +24,18 @@ Este proyecto desarrolla un problema de clasificación supervisada cuyo objetivo
 
 El trabajo sigue el flujo completo de un problema de Machine Learning, incluyendo:
 
-Análisis exploratorio y preprocesamiento de datos
+* Análisis exploratorio y preprocesamiento de datos
 
-Estudio del balanceo de clases y aplicación de técnicas de balanceo
+* Estudio del balanceo de clases y aplicación de técnicas de balanceo
 
-Entrenamiento y validación de múltiples modelos de clasificación
+* Entrenamiento y validación de múltiples modelos de clasificación
 
-Ajuste de hiperparámetros
+* Ajuste de hiperparámetros
 
-Evaluación mediante distintas métricas
+* Evaluación mediante distintas métricas
 
-Comparación de modelos
+* Comparación de modelos
 
-Construcción de un modelo ensemble para mejorar el rendimiento predictivo
+* Construcción de un modelo ensemble para mejorar el rendimiento predictivo
 
 Finalmente, se comparan los resultados obtenidos por los modelos individuales y el ensemble, analizando su capacidad para clasificar correctamente la potabilidad del agua y discutiendo las ventajas y limitaciones de cada enfoque.
